@@ -7,7 +7,7 @@
  *
  * @auto-scaling true
  * @size 4:3 960px 720px
- */div#p>svg>foreignObject>section .hljs{display:block;overflow-x:auto;padding:.5em;background:#000;color:#f8f8f8}div#p>svg>foreignObject>section .hljs-comment,div#p>svg>foreignObject>section .hljs-quote{color:#aeaeae;font-style:italic}div#p>svg>foreignObject>section .hljs-keyword,div#p>svg>foreignObject>section .hljs-selector-tag,div#p>svg>foreignObject>section .hljs-type{color:#e28964}div#p>svg>foreignObject>section .hljs-string{color:#65b042}div#p>svg>foreignObject>section .hljs-subst{color:#daefa3}div#p>svg>foreignObject>section .hljs-link,div#p>svg>foreignObject>section .hljs-regexp{color:#e9c062}div#p>svg>foreignObject>section .hljs-name,div#p>svg>foreignObject>section .hljs-section,div#p>svg>foreignObject>section .hljs-tag,div#p>svg>foreignObject>section .hljs-title{color:#89bdff}div#p>svg>foreignObject>section .hljs-class .hljs-title,div#p>svg>foreignObject>section .hljs-doctag{text-decoration:underline}div#p>svg>foreignObject>section .hljs-bullet,div#p>svg>foreignObject>section .hljs-number,div#p>svg>foreignObject>section .hljs-symbol{color:#3387cc}div#p>svg>foreignObject>section .hljs-params,div#p>svg>foreignObject>section .hljs-template-variable,div#p>svg>foreignObject>section .hljs-variable{color:#3e87e3}div#p>svg>foreignObject>section .hljs-attribute{color:#cda869}div#p>svg>foreignObject>section .hljs-meta{color:#8996a8}div#p>svg>foreignObject>section .hljs-formula{background-color:#0e2231;color:#f8f8f8;font-style:italic}div#p>svg>foreignObject>section .hljs-addition{background-color:#253b22;color:#f8f8f8}div#p>svg>foreignObject>section .hljs-deletion{background-color:#420e09;color:#f8f8f8}div#p>svg>foreignObject>section .hljs-selector-class{color:#9b703f}div#p>svg>foreignObject>section .hljs-selector-id{color:#8b98ab}div#p>svg>foreignObject>section .hljs-emphasis{font-style:italic}div#p>svg>foreignObject>section .hljs-strong{font-weight:700}div#p>svg>foreignObject>section svg[data-marp-fitting=svg]{max-height:580px}div#p>svg>foreignObject>section h1,div#p>svg>foreignObject>section h2,div#p>svg>foreignObject>section h3,div#p>svg>foreignObject>section h4,div#p>svg>foreignObject>section h5,div#p>svg>foreignObject>section h6{margin:.5em 0 0}div#p>svg>foreignObject>section h1 strong,div#p>svg>foreignObject>section h2 strong,div#p>svg>foreignObject>section h3 strong,div#p>svg>foreignObject>section h4 strong,div#p>svg>foreignObject>section h5 strong,div#p>svg>foreignObject>section h6 strong{font-weight:inherit}div#p>svg>foreignObject>section h1{font-size:1.8em}div#p>svg>foreignObject>section h2{font-size:1.5em}div#p>svg>foreignObject>section h3{font-size:1.3em}div#p>svg>foreignObject>section h4{font-size:1.1em}div#p>svg>foreignObject>section h5{font-size:1em}div#p>svg>foreignObject>section h6{font-size:.9em}div#p>svg>foreignObject>section blockquote,div#p>svg>foreignObject>section p{margin:1em 0 0}div#p>svg>foreignObject>section ol>li,div#p>svg>foreignObject>section ul>li{margin:.3em 0 0}div#p>svg>foreignObject>section ol>li>p,div#p>svg>foreignObject>section ul>li>p{margin:.6em 0 0}div#p>svg>foreignObject>section code{display:inline-block;font-family:Roboto Mono,monospace;font-size:.8em;letter-spacing:0;margin:-.1em .15em;padding:.1em .2em;vertical-align:baseline}div#p>svg>foreignObject>section pre{display:block;margin:1em 0 0;min-height:1em;overflow:visible}div#p>svg>foreignObject>section pre code{box-sizing:border-box;margin:0;min-width:100%;padding:.5em;font-size:.7em}div#p>svg>foreignObject>section pre code svg[data-marp-fitting=svg]{max-height:calc(580px - 1em)}div#p>svg>foreignObject>section blockquote{margin:1em 0 0;padding:0 1em;position:relative}div#p>svg>foreignObject>section blockquote:after,div#p>svg>foreignObject>section blockquote:before{content:"“";display:block;font-family:Times New Roman,serif;font-weight:700;position:absolute}div#p>svg>foreignObject>section blockquote:before{top:0;left:0}div#p>svg>foreignObject>section blockquote:after{right:0;bottom:0;transform:rotate(180deg)}div#p>svg>foreignObject>section blockquote>:first-child{margin-top:0}div#p>svg>foreignObject>section mark{background:transparent}div#p>svg>foreignObject>section table{border-spacing:0;border-collapse:collapse;margin:1em 0 0}div#p>svg>foreignObject>section table td,div#p>svg>foreignObject>section table th{padding:.2em .4em;border-width:1px;border-style:solid}div#p>svg>foreignObject>section{background-image:linear-gradient(135deg,hsla(0,0%,53.3%,0),hsla(0,0%,53.3%,.02) 50%,hsla(0,0%,100%,0) 0,hsla(0,0%,100%,.05));font-size:35px;font-family:Lato,Avenir Next,Avenir,Trebuchet MS,Segoe UI,sans-serif;height:720px;line-height:1.35;letter-spacing:1.25px;padding:70px;width:1280px;word-wrap:break-word;color:#455a64;background-color:#fff8e1}div#p>svg>foreignObject>section{--marpit-root-font-size:35px}div#p>svg>foreignObject>section>:first-child,div#p>svg>foreignObject>section>header:first-child+*{margin-top:0}div#p>svg>foreignObject>section a,div#p>svg>foreignObject>section mark{color:#0288d1}div#p>svg>foreignObject>section code{background:#6a7a7d;color:#fff8e1}div#p>svg>foreignObject>section h1 strong,div#p>svg>foreignObject>section h2 strong,div#p>svg>foreignObject>section h3 strong,div#p>svg>foreignObject>section h4 strong,div#p>svg>foreignObject>section h5 strong,div#p>svg>foreignObject>section h6 strong{color:#0288d1}div#p>svg>foreignObject>section pre>code{background:#455a64}div#p>svg>foreignObject>section blockquote:after,div#p>svg>foreignObject>section blockquote:before,div#p>svg>foreignObject>section footer,div#p>svg>foreignObject>section header,div#p>svg>foreignObject>section section:after{color:#6a7a7d}div#p>svg>foreignObject>section table td,div#p>svg>foreignObject>section table th{border-color:#455a64}div#p>svg>foreignObject>section table thead th{background:#455a64;color:#fff8e1}div#p>svg>foreignObject>section table tbody>tr:nth-child(odd) td,div#p>svg>foreignObject>section table tbody>tr:nth-child(odd) th{background:rgba(69,90,100,.1)}div#p>svg>foreignObject>section.invert{color:#fff8e1;background-color:#455a64}div#p>svg>foreignObject>section.invert a,div#p>svg>foreignObject>section.invert mark{color:#81d4fa}div#p>svg>foreignObject>section.invert code{background:#dad8c8;color:#455a64}div#p>svg>foreignObject>section.invert h1 strong,div#p>svg>foreignObject>section.invert h2 strong,div#p>svg>foreignObject>section.invert h3 strong,div#p>svg>foreignObject>section.invert h4 strong,div#p>svg>foreignObject>section.invert h5 strong,div#p>svg>foreignObject>section.invert h6 strong{color:#81d4fa}div#p>svg>foreignObject>section.invert pre>code{background:#fff8e1}div#p>svg>foreignObject>section.invert blockquote:after,div#p>svg>foreignObject>section.invert blockquote:before,div#p>svg>foreignObject>section.invert footer,div#p>svg>foreignObject>section.invert header,div#p>svg>foreignObject>section.invert section:after{color:#dad8c8}div#p>svg>foreignObject>section.invert table td,div#p>svg>foreignObject>section.invert table th{border-color:#fff8e1}div#p>svg>foreignObject>section.invert table thead th{background:#fff8e1;color:#455a64}div#p>svg>foreignObject>section.invert table tbody>tr:nth-child(odd) td,div#p>svg>foreignObject>section.invert table tbody>tr:nth-child(odd) th{background:rgba(255,248,225,.1)}div#p>svg>foreignObject>section.gaia{color:#fff8e1;background-color:#0288d1}div#p>svg>foreignObject>section.gaia a,div#p>svg>foreignObject>section.gaia mark{color:#81d4fa}div#p>svg>foreignObject>section.gaia code{background:#cce2de;color:#0288d1}div#p>svg>foreignObject>section.gaia h1 strong,div#p>svg>foreignObject>section.gaia h2 strong,div#p>svg>foreignObject>section.gaia h3 strong,div#p>svg>foreignObject>section.gaia h4 strong,div#p>svg>foreignObject>section.gaia h5 strong,div#p>svg>foreignObject>section.gaia h6 strong{color:#81d4fa}div#p>svg>foreignObject>section.gaia pre>code{background:#fff8e1}div#p>svg>foreignObject>section.gaia blockquote:after,div#p>svg>foreignObject>section.gaia blockquote:before,div#p>svg>foreignObject>section.gaia footer,div#p>svg>foreignObject>section.gaia header,div#p>svg>foreignObject>section.gaia section:after{color:#cce2de}div#p>svg>foreignObject>section.gaia table td,div#p>svg>foreignObject>section.gaia table th{border-color:#fff8e1}div#p>svg>foreignObject>section.gaia table thead th{background:#fff8e1;color:#0288d1}div#p>svg>foreignObject>section.gaia table tbody>tr:nth-child(odd) td,div#p>svg>foreignObject>section.gaia table tbody>tr:nth-child(odd) th{background:rgba(255,248,225,.1)}div#p>svg>foreignObject>section.lead{display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center}div#p>svg>foreignObject>section.lead h1,div#p>svg>foreignObject>section.lead h2,div#p>svg>foreignObject>section.lead h3,div#p>svg>foreignObject>section.lead h4,div#p>svg>foreignObject>section.lead h5,div#p>svg>foreignObject>section.lead h6{text-align:center}div#p>svg>foreignObject>section.lead h1 svg[data-marp-fitting=svg],div#p>svg>foreignObject>section.lead h2 svg[data-marp-fitting=svg],div#p>svg>foreignObject>section.lead h3 svg[data-marp-fitting=svg],div#p>svg>foreignObject>section.lead h4 svg[data-marp-fitting=svg],div#p>svg>foreignObject>section.lead h5 svg[data-marp-fitting=svg],div#p>svg>foreignObject>section.lead h6 svg[data-marp-fitting=svg]{--preserve-aspect-ratio:xMidYMid meet}div#p>svg>foreignObject>section.lead p{text-align:center}div#p>svg>foreignObject>section.lead blockquote>h1,div#p>svg>foreignObject>section.lead blockquote>h2,div#p>svg>foreignObject>section.lead blockquote>h3,div#p>svg>foreignObject>section.lead blockquote>h4,div#p>svg>foreignObject>section.lead blockquote>h5,div#p>svg>foreignObject>section.lead blockquote>h6,div#p>svg>foreignObject>section.lead blockquote>p{text-align:left}div#p>svg>foreignObject>section.lead blockquote svg[data-marp-fitting=svg]:not([data-marp-fitting-math]){--preserve-aspect-ratio:xMinYMin meet}div#p>svg>foreignObject>section.lead ol>li>p,div#p>svg>foreignObject>section.lead ul>li>p{text-align:left}div#p>svg>foreignObject>section.lead table{margin-left:auto;margin-right:auto}div#p>svg>foreignObject>section:after,div#p>svg>foreignObject>section footer,div#p>svg>foreignObject>section header{box-sizing:border-box;font-size:66%;height:70px;line-height:50px;overflow:hidden;padding:10px 25px;position:absolute}div#p>svg>foreignObject>section:after{--marpit-root-font-size:66%}div#p>svg>foreignObject>section header{top:0}div#p>svg>foreignObject>section footer,div#p>svg>foreignObject>section header{left:0;right:0}div#p>svg>foreignObject>section footer{bottom:0}div#p>svg>foreignObject>section:after{right:0;bottom:0;font-size:80%}div#p>svg>foreignObject>section:after{--marpit-root-font-size:80%}div#p>svg>foreignObject>section[data-marpit-advanced-background=background]{display:block!important;padding:0!important}div#p>svg>foreignObject>section[data-marpit-advanced-background=background]:after,div#p>svg>foreignObject>section[data-marpit-advanced-background=background]:before,div#p>svg>foreignObject>section[data-marpit-advanced-background=content]:after,div#p>svg>foreignObject>section[data-marpit-advanced-background=content]:before{display:none!important}div#p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container]{all:initial;display:flex;flex-direction:row;height:100%;overflow:hidden;width:100%}div#p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container][data-marpit-advanced-background-direction=vertical]{flex-direction:column}div#p>svg>foreignObject>section[data-marpit-advanced-background=background][data-marpit-advanced-background-split]>div[data-marpit-advanced-background-container]{width:var(--marpit-advanced-background-split,50%)}div#p>svg>foreignObject>section[data-marpit-advanced-background=background][data-marpit-advanced-background-split=right]>div[data-marpit-advanced-background-container]{margin-left:calc(100% - var(--marpit-advanced-background-split, 50%))}div#p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container]>figure{all:initial;background-position:center;background-repeat:no-repeat;background-size:cover;flex:auto;margin:0}div#p>svg>foreignObject>section[data-marpit-advanced-background=content],div#p>svg>foreignObject>section[data-marpit-advanced-background=pseudo]{background:transparent!important}div#p>svg>foreignObject>section[data-marpit-advanced-background=pseudo],div#p>svg[data-marpit-svg]>foreignObject[data-marpit-advanced-background=pseudo]{pointer-events:none!important}div#p>svg>foreignObject>section[data-marpit-advanced-background-split]{width:100%;height:100%}</style></head><body><div class="bespoke-marp-osc"><button data-bespoke-marp-osc="prev" tabindex="-1" title="Previous slide">Previous slide</button><span data-bespoke-marp-osc="page"></span><button data-bespoke-marp-osc="next" tabindex="-1" title="Next slide">Next slide</button><button data-bespoke-marp-osc="fullscreen" tabindex="-1" title="Toggle fullscreen (f)">Toggle fullscreen</button><button data-bespoke-marp-osc="presenter" tabindex="-1" title="Open presenter view (p)">Open presenter view</button></div><div id="p"><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="1" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;--marpit-advanced-background-split:50%;" data-marpit-advanced-background="background" data-marpit-advanced-background-split="right"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;coffee.gif&quot;);"></figure></div></section></foreignObject><foreignObject width="50%" height="720"><section id="1" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="1" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;--marpit-advanced-background-split:50%;" data-marpit-advanced-background="content" data-marpit-advanced-background-split="right">
+ */div#p>svg>foreignObject>section .hljs{display:block;overflow-x:auto;padding:.5em;background:#000;color:#f8f8f8}div#p>svg>foreignObject>section .hljs-comment,div#p>svg>foreignObject>section .hljs-quote{color:#aeaeae;font-style:italic}div#p>svg>foreignObject>section .hljs-keyword,div#p>svg>foreignObject>section .hljs-selector-tag,div#p>svg>foreignObject>section .hljs-type{color:#e28964}div#p>svg>foreignObject>section .hljs-string{color:#65b042}div#p>svg>foreignObject>section .hljs-subst{color:#daefa3}div#p>svg>foreignObject>section .hljs-link,div#p>svg>foreignObject>section .hljs-regexp{color:#e9c062}div#p>svg>foreignObject>section .hljs-name,div#p>svg>foreignObject>section .hljs-section,div#p>svg>foreignObject>section .hljs-tag,div#p>svg>foreignObject>section .hljs-title{color:#89bdff}div#p>svg>foreignObject>section .hljs-class .hljs-title,div#p>svg>foreignObject>section .hljs-doctag{text-decoration:underline}div#p>svg>foreignObject>section .hljs-bullet,div#p>svg>foreignObject>section .hljs-number,div#p>svg>foreignObject>section .hljs-symbol{color:#3387cc}div#p>svg>foreignObject>section .hljs-params,div#p>svg>foreignObject>section .hljs-template-variable,div#p>svg>foreignObject>section .hljs-variable{color:#3e87e3}div#p>svg>foreignObject>section .hljs-attribute{color:#cda869}div#p>svg>foreignObject>section .hljs-meta{color:#8996a8}div#p>svg>foreignObject>section .hljs-formula{background-color:#0e2231;color:#f8f8f8;font-style:italic}div#p>svg>foreignObject>section .hljs-addition{background-color:#253b22;color:#f8f8f8}div#p>svg>foreignObject>section .hljs-deletion{background-color:#420e09;color:#f8f8f8}div#p>svg>foreignObject>section .hljs-selector-class{color:#9b703f}div#p>svg>foreignObject>section .hljs-selector-id{color:#8b98ab}div#p>svg>foreignObject>section .hljs-emphasis{font-style:italic}div#p>svg>foreignObject>section .hljs-strong{font-weight:700}div#p>svg>foreignObject>section svg[data-marp-fitting=svg]{max-height:580px}div#p>svg>foreignObject>section h1,div#p>svg>foreignObject>section h2,div#p>svg>foreignObject>section h3,div#p>svg>foreignObject>section h4,div#p>svg>foreignObject>section h5,div#p>svg>foreignObject>section h6{margin:.5em 0 0}div#p>svg>foreignObject>section h1 strong,div#p>svg>foreignObject>section h2 strong,div#p>svg>foreignObject>section h3 strong,div#p>svg>foreignObject>section h4 strong,div#p>svg>foreignObject>section h5 strong,div#p>svg>foreignObject>section h6 strong{font-weight:inherit}div#p>svg>foreignObject>section h1{font-size:1.8em}div#p>svg>foreignObject>section h2{font-size:1.5em}div#p>svg>foreignObject>section h3{font-size:1.3em}div#p>svg>foreignObject>section h4{font-size:1.1em}div#p>svg>foreignObject>section h5{font-size:1em}div#p>svg>foreignObject>section h6{font-size:.9em}div#p>svg>foreignObject>section blockquote,div#p>svg>foreignObject>section p{margin:1em 0 0}div#p>svg>foreignObject>section ol>li,div#p>svg>foreignObject>section ul>li{margin:.3em 0 0}div#p>svg>foreignObject>section ol>li>p,div#p>svg>foreignObject>section ul>li>p{margin:.6em 0 0}div#p>svg>foreignObject>section code{display:inline-block;font-family:Roboto Mono,monospace;font-size:.8em;letter-spacing:0;margin:-.1em .15em;padding:.1em .2em;vertical-align:baseline}div#p>svg>foreignObject>section pre{display:block;margin:1em 0 0;min-height:1em;overflow:visible}div#p>svg>foreignObject>section pre code{box-sizing:border-box;margin:0;min-width:100%;padding:.5em;font-size:.7em}div#p>svg>foreignObject>section pre code svg[data-marp-fitting=svg]{max-height:calc(580px - 1em)}div#p>svg>foreignObject>section blockquote{margin:1em 0 0;padding:0 1em;position:relative}div#p>svg>foreignObject>section blockquote:after,div#p>svg>foreignObject>section blockquote:before{content:"“";display:block;font-family:Times New Roman,serif;font-weight:700;position:absolute}div#p>svg>foreignObject>section blockquote:before{top:0;left:0}div#p>svg>foreignObject>section blockquote:after{right:0;bottom:0;transform:rotate(180deg)}div#p>svg>foreignObject>section blockquote>:first-child{margin-top:0}div#p>svg>foreignObject>section mark{background:transparent}div#p>svg>foreignObject>section table{border-spacing:0;border-collapse:collapse;margin:1em 0 0}div#p>svg>foreignObject>section table td,div#p>svg>foreignObject>section table th{padding:.2em .4em;border-width:1px;border-style:solid}div#p>svg>foreignObject>section{background-image:linear-gradient(135deg,hsla(0,0%,53.3%,0),hsla(0,0%,53.3%,.02) 50%,hsla(0,0%,100%,0) 0,hsla(0,0%,100%,.05));font-size:35px;font-family:Lato,Avenir Next,Avenir,Trebuchet MS,Segoe UI,sans-serif;height:720px;line-height:1.35;letter-spacing:1.25px;padding:70px;width:1280px;word-wrap:break-word;color:#455a64;background-color:#fff8e1}div#p>svg>foreignObject>section{--marpit-root-font-size:35px}div#p>svg>foreignObject>section>:first-child,div#p>svg>foreignObject>section>header:first-child+*{margin-top:0}div#p>svg>foreignObject>section a,div#p>svg>foreignObject>section mark{color:#0288d1}div#p>svg>foreignObject>section code{background:#6a7a7d;color:#fff8e1}div#p>svg>foreignObject>section h1 strong,div#p>svg>foreignObject>section h2 strong,div#p>svg>foreignObject>section h3 strong,div#p>svg>foreignObject>section h4 strong,div#p>svg>foreignObject>section h5 strong,div#p>svg>foreignObject>section h6 strong{color:#0288d1}div#p>svg>foreignObject>section pre>code{background:#455a64}div#p>svg>foreignObject>section blockquote:after,div#p>svg>foreignObject>section blockquote:before,div#p>svg>foreignObject>section footer,div#p>svg>foreignObject>section header,div#p>svg>foreignObject>section section:after{color:#6a7a7d}div#p>svg>foreignObject>section table td,div#p>svg>foreignObject>section table th{border-color:#455a64}div#p>svg>foreignObject>section table thead th{background:#455a64;color:#fff8e1}div#p>svg>foreignObject>section table tbody>tr:nth-child(odd) td,div#p>svg>foreignObject>section table tbody>tr:nth-child(odd) th{background:rgba(69,90,100,.1)}div#p>svg>foreignObject>section.invert{color:#fff8e1;background-color:#455a64}div#p>svg>foreignObject>section.invert a,div#p>svg>foreignObject>section.invert mark{color:#81d4fa}div#p>svg>foreignObject>section.invert code{background:#dad8c8;color:#455a64}div#p>svg>foreignObject>section.invert h1 strong,div#p>svg>foreignObject>section.invert h2 strong,div#p>svg>foreignObject>section.invert h3 strong,div#p>svg>foreignObject>section.invert h4 strong,div#p>svg>foreignObject>section.invert h5 strong,div#p>svg>foreignObject>section.invert h6 strong{color:#81d4fa}div#p>svg>foreignObject>section.invert pre>code{background:#fff8e1}div#p>svg>foreignObject>section.invert blockquote:after,div#p>svg>foreignObject>section.invert blockquote:before,div#p>svg>foreignObject>section.invert footer,div#p>svg>foreignObject>section.invert header,div#p>svg>foreignObject>section.invert section:after{color:#dad8c8}div#p>svg>foreignObject>section.invert table td,div#p>svg>foreignObject>section.invert table th{border-color:#fff8e1}div#p>svg>foreignObject>section.invert table thead th{background:#fff8e1;color:#455a64}div#p>svg>foreignObject>section.invert table tbody>tr:nth-child(odd) td,div#p>svg>foreignObject>section.invert table tbody>tr:nth-child(odd) th{background:rgba(255,248,225,.1)}div#p>svg>foreignObject>section.gaia{color:#fff8e1;background-color:#0288d1}div#p>svg>foreignObject>section.gaia a,div#p>svg>foreignObject>section.gaia mark{color:#81d4fa}div#p>svg>foreignObject>section.gaia code{background:#cce2de;color:#0288d1}div#p>svg>foreignObject>section.gaia h1 strong,div#p>svg>foreignObject>section.gaia h2 strong,div#p>svg>foreignObject>section.gaia h3 strong,div#p>svg>foreignObject>section.gaia h4 strong,div#p>svg>foreignObject>section.gaia h5 strong,div#p>svg>foreignObject>section.gaia h6 strong{color:#81d4fa}div#p>svg>foreignObject>section.gaia pre>code{background:#fff8e1}div#p>svg>foreignObject>section.gaia blockquote:after,div#p>svg>foreignObject>section.gaia blockquote:before,div#p>svg>foreignObject>section.gaia footer,div#p>svg>foreignObject>section.gaia header,div#p>svg>foreignObject>section.gaia section:after{color:#cce2de}div#p>svg>foreignObject>section.gaia table td,div#p>svg>foreignObject>section.gaia table th{border-color:#fff8e1}div#p>svg>foreignObject>section.gaia table thead th{background:#fff8e1;color:#0288d1}div#p>svg>foreignObject>section.gaia table tbody>tr:nth-child(odd) td,div#p>svg>foreignObject>section.gaia table tbody>tr:nth-child(odd) th{background:rgba(255,248,225,.1)}div#p>svg>foreignObject>section.lead{display:flex;flex-direction:column;flex-wrap:nowrap;justify-content:center}div#p>svg>foreignObject>section.lead h1,div#p>svg>foreignObject>section.lead h2,div#p>svg>foreignObject>section.lead h3,div#p>svg>foreignObject>section.lead h4,div#p>svg>foreignObject>section.lead h5,div#p>svg>foreignObject>section.lead h6{text-align:center}div#p>svg>foreignObject>section.lead h1 svg[data-marp-fitting=svg],div#p>svg>foreignObject>section.lead h2 svg[data-marp-fitting=svg],div#p>svg>foreignObject>section.lead h3 svg[data-marp-fitting=svg],div#p>svg>foreignObject>section.lead h4 svg[data-marp-fitting=svg],div#p>svg>foreignObject>section.lead h5 svg[data-marp-fitting=svg],div#p>svg>foreignObject>section.lead h6 svg[data-marp-fitting=svg]{--preserve-aspect-ratio:xMidYMid meet}div#p>svg>foreignObject>section.lead p{text-align:center}div#p>svg>foreignObject>section.lead blockquote>h1,div#p>svg>foreignObject>section.lead blockquote>h2,div#p>svg>foreignObject>section.lead blockquote>h3,div#p>svg>foreignObject>section.lead blockquote>h4,div#p>svg>foreignObject>section.lead blockquote>h5,div#p>svg>foreignObject>section.lead blockquote>h6,div#p>svg>foreignObject>section.lead blockquote>p{text-align:left}div#p>svg>foreignObject>section.lead blockquote svg[data-marp-fitting=svg]:not([data-marp-fitting-math]){--preserve-aspect-ratio:xMinYMin meet}div#p>svg>foreignObject>section.lead ol>li>p,div#p>svg>foreignObject>section.lead ul>li>p{text-align:left}div#p>svg>foreignObject>section.lead table{margin-left:auto;margin-right:auto}div#p>svg>foreignObject>section:after,div#p>svg>foreignObject>section footer,div#p>svg>foreignObject>section header{box-sizing:border-box;font-size:66%;height:70px;line-height:50px;overflow:hidden;padding:10px 25px;position:absolute}div#p>svg>foreignObject>section:after{--marpit-root-font-size:66%}div#p>svg>foreignObject>section header{top:0}div#p>svg>foreignObject>section footer,div#p>svg>foreignObject>section header{left:0;right:0}div#p>svg>foreignObject>section footer{bottom:0}div#p>svg>foreignObject>section:after{right:0;bottom:0;font-size:80%}div#p>svg>foreignObject>section:after{--marpit-root-font-size:80%}div#p>svg>foreignObject>section[data-marpit-advanced-background=background]{display:block!important;padding:0!important}div#p>svg>foreignObject>section[data-marpit-advanced-background=background]:after,div#p>svg>foreignObject>section[data-marpit-advanced-background=background]:before,div#p>svg>foreignObject>section[data-marpit-advanced-background=content]:after,div#p>svg>foreignObject>section[data-marpit-advanced-background=content]:before{display:none!important}div#p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container]{all:initial;display:flex;flex-direction:row;height:100%;overflow:hidden;width:100%}div#p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container][data-marpit-advanced-background-direction=vertical]{flex-direction:column}div#p>svg>foreignObject>section[data-marpit-advanced-background=background][data-marpit-advanced-background-split]>div[data-marpit-advanced-background-container]{width:var(--marpit-advanced-background-split,50%)}div#p>svg>foreignObject>section[data-marpit-advanced-background=background][data-marpit-advanced-background-split=right]>div[data-marpit-advanced-background-container]{margin-left:calc(100% - var(--marpit-advanced-background-split, 50%))}div#p>svg>foreignObject>section[data-marpit-advanced-background=background]>div[data-marpit-advanced-background-container]>figure{all:initial;background-position:center;background-repeat:no-repeat;background-size:cover;flex:auto;margin:0}div#p>svg>foreignObject>section[data-marpit-advanced-background=content],div#p>svg>foreignObject>section[data-marpit-advanced-background=pseudo]{background:transparent!important}div#p>svg>foreignObject>section[data-marpit-advanced-background=pseudo],div#p>svg[data-marpit-svg]>foreignObject[data-marpit-advanced-background=pseudo]{pointer-events:none!important}div#p>svg>foreignObject>section[data-marpit-advanced-background-split]{width:100%;height:100%}</style></head><body><div class="bespoke-marp-osc"><button data-bespoke-marp-osc="prev" tabindex="-1" title="Previous slide">Previous slide</button><span data-bespoke-marp-osc="page"></span><button data-bespoke-marp-osc="next" tabindex="-1" title="Next slide">Next slide</button><button data-bespoke-marp-osc="fullscreen" tabindex="-1" title="Toggle fullscreen (f)">Toggle fullscreen</button><button data-bespoke-marp-osc="presenter" tabindex="-1" title="Open presenter view (p)">Open presenter view</button></div><div id="p"><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="1" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;--marpit-advanced-background-split:50%;" data-marpit-advanced-background="background" data-marpit-advanced-background-split="right"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;coffee.gif&quot;);"></figure></div></section></foreignObject><foreignObject width="50%" height="720"><section id="1" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="1" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;--marpit-advanced-background-split:50%;" data-marpit-advanced-background="content" data-marpit-advanced-background-split="right">
 <header><strong>Preparation Java</strong></header>
 
 <h1>Java SMI5</h1>
@@ -16,12 +16,18 @@
 <p>[<a href="https://app.sli.do/event/ex3esarj">https://app.sli.do/event/ex3esarj</a>]</p>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section class="lead" style="" data-marpit-advanced-background="pseudo" data-marpit-pagination="1" data-marpit-pagination-total="61"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="2" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="2" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section class="lead" style="" data-marpit-advanced-background="pseudo" data-marpit-pagination="1" data-marpit-pagination-total="76"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="2" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="2" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<p>Encapsulation in Python<br />
+self.__data</p>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="3" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="3" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Class</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="3" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="3" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="4" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="4" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>public class Dog {
     String breed;
@@ -40,12 +46,12 @@
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="4" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="4" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="5" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="5" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Variable types</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="5" data-marpit-fragments="3" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="5" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="6" data-marpit-fragments="3" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="6" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <ul>
 <li data-marpit-fragment="1">
@@ -60,12 +66,12 @@
 </ul>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="6" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="6" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="7" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="7" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Constructors</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="7" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="7" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="8" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="8" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>    public class Puppy {
         public Puppy() {
@@ -78,12 +84,12 @@
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="8" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="8" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="9" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="9" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Creating an Object</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="9" data-marpit-fragments="3" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="9" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="10" data-marpit-fragments="3" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="10" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <ul>
 <li data-marpit-fragment="1">
@@ -98,7 +104,7 @@
 </ul>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="10" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="10" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="11" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="11" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>public class Puppy {
     public Puppy(String name) {
@@ -114,12 +120,12 @@ public static void main(String []args) {
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="11" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="11" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="12" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="12" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Accessing Instance Variables and Methods</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="12" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="12" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="13" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="13" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>/* First create an object */
 ObjectReference = new Constructor();
@@ -132,7 +138,7 @@ ObjectReference.MethodName();
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="13" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="13" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="14" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="14" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>    public class Puppy {
         int puppyAge;
@@ -168,12 +174,12 @@ ObjectReference.MethodName();
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="14" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="14" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="15" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="15" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>No argument Constructors</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="15" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="15" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="16" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="16" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>    Public class MyClass {
         Int num;
@@ -184,12 +190,12 @@ ObjectReference.MethodName();
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="16" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="16" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="17" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="17" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Parameterized Constructors</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="17" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="17" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="18" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="18" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>// A simple constructor.
 class MyClass {
@@ -203,12 +209,12 @@ class MyClass {
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="18" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="18" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="19" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="19" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Primitive Data Types</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="19" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="19" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="20" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="20" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>char c;
 boolean b; 
@@ -221,22 +227,22 @@ byte by;
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="20" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="20" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="21" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="21" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Reference Datatypes</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="21" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="21" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="22" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="22" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
-<p>Class definded by you</p>
+<p>Classes</p>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="22" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="22" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="23" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="23" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Local Variables</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="23" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="23" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="24" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="24" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>public class Test {
     public void pupAge() {
@@ -253,12 +259,12 @@ byte by;
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="24" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="24" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="25" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="25" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Instance Variables</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="25" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="25" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="26" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="26" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>import java.io.*;
 public class Employee {
@@ -294,12 +300,12 @@ public class Employee {
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="26" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="26" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="27" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="27" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Class/Static Variables</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="27" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="27" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="28" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="28" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>import java.io.*;
 public class Employee {
@@ -318,12 +324,12 @@ public class Employee {
 <p>}</p>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="28" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="28" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="29" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="29" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Access Control Modifiers</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="29" data-marpit-fragments="4" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="29" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="30" data-marpit-fragments="4" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="30" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <ul>
 <li data-marpit-fragment="1">Visible to the package, the default. No modifiers are needed.</li>
@@ -333,16 +339,16 @@ public class Employee {
 </ul>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="30" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;encap_difference.png&quot;);background-size:70%;"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="30" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="30" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="content">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="31" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;encap_difference.png&quot;);background-size:70%;"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="31" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="31" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="content">
 <header><strong>Preparation Java</strong></header>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section class="lead" style="" data-marpit-advanced-background="pseudo" data-marpit-pagination="30" data-marpit-pagination-total="61"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="31" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="31" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section class="lead" style="" data-marpit-advanced-background="pseudo" data-marpit-pagination="31" data-marpit-pagination-total="76"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="32" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="32" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Non-Access Modifiers</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="32" data-marpit-fragments="4" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="32" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="33" data-marpit-fragments="4" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="33" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <ul>
 <li data-marpit-fragment="1">
@@ -360,37 +366,12 @@ public class Employee {
 </ul>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="33" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="33" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
-<header><strong>Preparation Java</strong></header>
-<h2>The Arithmetic Operators</h2>
-<footer>Taha Bouhsine</footer>
-</section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="34" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="34" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
-<header><strong>Preparation Java</strong></header>
-<h2>Relational Operators</h2>
-<footer>Taha Bouhsine</footer>
-</section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="35" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="35" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
-<header><strong>Preparation Java</strong></header>
-<h2>Bitwise Operators</h2>
-<footer>Taha Bouhsine</footer>
-</section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="36" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="36" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
-<header><strong>Preparation Java</strong></header>
-<h2>Logical Operators</h2>
-<footer>Taha Bouhsine</footer>
-</section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="37" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="37" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
-<header><strong>Preparation Java</strong></header>
-<h2>Assignment Operators</h2>
-<footer>Taha Bouhsine</footer>
-</section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="38" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="38" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="34" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="34" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Loop</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="39" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="39" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="35" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="35" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>int [] numbers = {10, 20, 30, 40, 50};
 for(int x : numbers ) {
@@ -400,7 +381,7 @@ for(int x : numbers ) {
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="40" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="40" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="36" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="36" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>String [] names = {&quot;James&quot;, &quot;Larry&quot;, &quot;Tom&quot;, &quot;Lacy&quot;};
 
@@ -411,14 +392,14 @@ for( String name : names ) {
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="41" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="41" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="37" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="37" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Conditional Statement</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="42" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="42" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="38" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="38" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
-<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>    if(condition1)
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>if(condition1)
 {  
     //code for if condition1 is true  
 }
@@ -437,87 +418,83 @@ else
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="43" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="43" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="39" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="39" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>Exp1 ? Exp2 : Exp3;
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="44" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="44" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="40" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="40" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Methods</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="45" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="45" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="41" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="41" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
-<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>return-type methodName(parameter-list)
-{
-//body of method
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>return-type methodName(parameter-list){
+    //body of method
 }
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="46" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="46" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="42" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="42" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Java is Strictly Pass by Value</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="47" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="47" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="43" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="43" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Iheritance: IS-A Relationship</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="48" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="48" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="44" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="44" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
-<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>public class Animal {
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>public class Animal{
 }
-
-public class Mammal extends Animal {
+public class Mammal extends Animal{
 }
-
-public class Reptile extends Animal {
+public class Reptile extends Animal{
 }
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="49" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="49" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="45" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="45" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Aggregation: HAS-A relationship</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="50" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="50" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="46" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="46" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>public class Vehicle{}
 public class Speed{}
-
 public class Van extends Vehicle {
+    // Van has Speed
     private Speed sp;
 }
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="51" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;iheritance.jpg&quot;);background-size:700px auto;"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="51" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="51" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="content">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="47" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;iheritance.jpg&quot;);background-size:700px auto;"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="47" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="47" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="content">
 <header><strong>Preparation Java</strong></header>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section class="lead" style="" data-marpit-advanced-background="pseudo" data-marpit-pagination="51" data-marpit-pagination-total="61"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="52" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="52" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section class="lead" style="" data-marpit-advanced-background="pseudo" data-marpit-pagination="47" data-marpit-pagination-total="76"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="48" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="48" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Polymorphism</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="53" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="53" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="49" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="49" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h3>Overriding</h3>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="54" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="54" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="50" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="50" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>class Animal {
     public void move() {
         System.out.println(&quot;Animals can move&quot;);
         }
 }
-
 class Dog extends Animal {
     public void move() {
         System.out.println(&quot;Dogs can walk and run&quot;);
@@ -526,13 +503,10 @@ class Dog extends Animal {
         System.out.println(&quot;Dogs can bark&quot;);
     }
 }
-
 public class TestDog {
-
     public static void main(String args[]) {
         Animal a = new Animal();   // Animal reference and object
         Animal b = new Dog();   // Animal reference but Dog object
-
         a.move();   // runs the method in Animal class
         b.move();   // runs the method in Dog class
         b.bark();
@@ -541,12 +515,12 @@ public class TestDog {
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="55" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="55" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="51" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="51" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
-<h3>super Keyword</h3>
+<h3>super keyword</h3>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="56" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="56" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="52" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="52" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>class Animal {
     public void move() {
@@ -570,12 +544,12 @@ public class TestDog {
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="57" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="57" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="53" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="53" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>Abstraction</h2>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="58" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="58" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="54" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="54" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>public abstract class Employee {
     private String name;
@@ -588,7 +562,7 @@ public class TestDog {
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="59" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="59" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="55" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="55" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>public class Salary extends Employee {
     private double salary;   // Annual salary
@@ -602,7 +576,7 @@ public class TestDog {
 </span></span></foreignObject></svg></code></pre>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="60" data-marpit-fragments="2" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="60" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="56" data-marpit-fragments="2" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="56" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <p>Declaring a method as abstract has two consequences:</p>
 <ul>
@@ -615,7 +589,286 @@ public class TestDog {
 </ul>
 <footer>Taha Bouhsine</footer>
 </section>
-</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="61" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="61" data-marpit-pagination-total="61" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="57" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="57" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<h2>Association</h2>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="58" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;assoc.png&quot;);background-size:50% auto;"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="58" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="58" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="content">
+<header><strong>Preparation Java</strong></header>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section class="lead" style="" data-marpit-advanced-background="pseudo" data-marpit-pagination="58" data-marpit-pagination-total="76"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="59" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="59" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>import java.io.*; 
+    
+// class bank 
+class Bank  
+    { 
+        private String name; 
+        
+        // bank name 
+        Bank(String name) 
+        { 
+            this.name = name; 
+        } 
+        
+        public String getBankName() 
+        { 
+            return this.name; 
+        } 
+    }  
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="60" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="60" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>// employee class  
+class Employee { 
+        private String name; 
+        // employee name  
+        Employee(String name)  
+        { 
+            this.name = name; 
+        } 
+        public String getEmployeeName() 
+        { 
+            return this.name; 
+        }  
+}
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="61" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="61" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>// Association between both the  
+// classes in main method 
+class Association{ 
+    public static void main (String[] args){ 
+            Bank bank = new Bank(&quot;Axis&quot;); 
+            Employee emp = new Employee(&quot;Neha&quot;); 
+            
+            System.out.println(emp.getEmployeeName() +  
+                &quot; is employee of &quot; + bank.getBankName()); 
+        } 
+    } 
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="62" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="62" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<h2>Aggregation</h2>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="63" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;aggrega.jpeg&quot;);background-size:60% auto;"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="63" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="63" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="content">
+<header><strong>Preparation Java</strong></header>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section class="lead" style="" data-marpit-advanced-background="pseudo" data-marpit-pagination="63" data-marpit-pagination-total="76"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="64" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="64" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>// Java program to illustrate 
+//the concept of Aggregation. 
+import java.io.*; 
+import java.util.*; 
+// student class 
+class Student{ 
+        String name; 
+        int id ; 
+        String dept; 
+        Student(String name, int id, String dept){ 
+            this.name = name; 
+            this.id = id; 
+            this.dept = dept; 
+        } 
+    } 
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="65" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="65" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>    /* Department class contains list of student 
+    Objects. It is associated with student 
+    class through its Object(s). */
+    class Department{ 
+        String name; 
+        private List&lt;Student&gt; students; 
+        Department(String name, List&lt;Student&gt; students){ 
+            this.name = name; 
+            this.students = students; 
+            
+        } 
+        public List&lt;Student&gt; getStudents(){ 
+            return students; 
+        } 
+    } 
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="66" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="66" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>    /* Institute class contains list of Department 
+    Objects. It is asoociated with Department 
+    class through its Object(s).*/
+    class Institute{ 
+        String instituteName; 
+        private List&lt;Department&gt; departments; 
+        Institute(String instituteName List&lt;Department&gt; departments){ 
+            this.instituteName = instituteName; 
+            this.departments = departments; 
+        }
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="67" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="67" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>        // count total students of all departments 
+        // in a given institute  
+        public int getTotalStudentsInInstitute(){ 
+            int noOfStudents = 0; 
+            List&lt;Student&gt; students;  
+            for(Department dept : departments){ 
+                students = dept.getStudents(); 
+                for(Student s : students) { 
+                    noOfStudents++; 
+                } 
+            } 
+            return noOfStudents; 
+        } 
+    }  
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="68" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="68" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>    // main method 
+    class GFG 
+    { 
+        public static void main (String[] args){ 
+            Student s1 = new Student(&quot;Mia&quot;, 1, &quot;CSE&quot;); 
+            Student s2 = new Student(&quot;Priya&quot;, 2, &quot;CSE&quot;); 
+            Student s3 = new Student(&quot;John&quot;, 1, &quot;EE&quot;); 
+            Student s4 = new Student(&quot;Rahul&quot;, 2, &quot;EE&quot;); 
+            // making a List of  
+            // CSE Students. 
+            List &lt;Student&gt; cse_students = new ArrayList&lt;Student&gt;(); 
+            cse_students.add(s1); 
+            cse_students.add(s2); 
+            // making a List of  
+            // EE Students 
+            List &lt;Student&gt; ee_students = new ArrayList&lt;Student&gt;(); 
+            ee_students.add(s3); 
+            ee_students.add(s4);
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="69" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="69" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>            Department CSE = new Department(&quot;CSE&quot;, cse_students); 
+            Department EE = new Department(&quot;EE&quot;, ee_students); 
+            List &lt;Department&gt; departments = new ArrayList&lt;Department&gt;(); 
+            departments.add(CSE); 
+            departments.add(EE); 
+            // creating an instance of Institute. 
+            Institute institute = new Institute(&quot;BITS&quot;, departments); 
+            System.out.print(&quot;Total students in institute: &quot;); 
+            System.out.print(institute.getTotalStudentsInInstitute()); 
+        } 
+    } 
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="70" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="70" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<h2>Composition</h2>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="71" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="background"><div data-marpit-advanced-background-container="true" data-marpit-advanced-background-direction="horizontal"><figure style="background-image:url(&quot;compo.jpeg&quot;);background-size:60% auto;"></figure></div></section></foreignObject><foreignObject width="1280" height="720"><section id="71" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="71" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;" data-marpit-advanced-background="content">
+<header><strong>Preparation Java</strong></header>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject><foreignObject width="1280" height="720" data-marpit-advanced-background="pseudo"><section class="lead" style="" data-marpit-advanced-background="pseudo" data-marpit-pagination="71" data-marpit-pagination-total="76"></section></foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="72" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="72" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>// Java program to illustrate the 
+// difference between Aggregation 
+// Composition. 
+
+import java.io.*; 
+
+// Engine class which will  
+// be used by car. so 'Car' 
+// class will have a field  
+// of Engine type. 
+class Engine{
+    // starting an engine.
+    public void work(){ 
+        System.out.println(&quot;Engine of car has been started &quot;);
+    }
+}
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="73" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="73" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>// Engine class 
+final class Car  
+{ 
+    // For a car to move,  
+    // it need to have a engine. 
+    private final Engine engine; // Composition 
+    //private Engine engine;     // Aggregation 
+    
+    Car(Engine engine) 
+    { 
+        this.engine = engine; 
+    } 
+    
+    // car start moving by starting engine 
+    public void move()  
+    { 
+        
+        //if(engine != null) 
+        { 
+            engine.work(); 
+            System.out.println(&quot;Car is moving &quot;); 
+        } 
+    }
+}
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="74" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="74" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<pre><code><svg data-marp-fitting="svg" data-marp-fitting-code><foreignObject><span data-marp-fitting-svg-content><span data-marp-fitting-svg-content-wrap>class GFG { 
+    public static void main (String[] args)  
+    { 
+      
+        // making an engine by creating  
+        // an instance of Engine class. 
+        Engine engine = new Engine(); 
+        
+        // Making a car with engine. 
+        // so we are passing a engine  
+        // instance as an argument while 
+        // creating instace of Car. 
+        Car car = new Car(engine); 
+        car.move(); 
+        
+    } 
+}
+</span></span></foreignObject></svg></code></pre>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="75" data-marpit-fragments="3" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="75" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
+<header><strong>Preparation Java</strong></header>
+<h4><strong>Aggregation vs Composition</strong></h4>
+<ul>
+<li data-marpit-fragment="1">Dependency: Aggregation implies a relationship where the child can exist independently of the parent. For example, Bank and Employee, delete the Bank and the Employee still exist. whereas Composition implies a relationship where the child cannot exist independent of the parent. Example: Human and heart, heart don’t exist separate to a Human</li>
+<li data-marpit-fragment="2">Type of Relationship: Aggregation relation is “has-a” and composition is “part-of” relation.</li>
+<li data-marpit-fragment="3">Type of association: Composition is a strong Association whereas Aggregation is a weak Association.</li>
+</ul>
+<footer>Taha Bouhsine</footer>
+</section>
+</foreignObject></svg><svg data-marpit-svg="" viewBox="0 0 1280 720"><foreignObject width="1280" height="720"><section id="76" data-class="lead" data-paginate="true" data-background-image="url('hero-background.jpg')" data-header="**Preparation Java**" data-footer="Taha Bouhsine" data-theme="gaia" class="lead" data-marpit-pagination="76" data-marpit-pagination-total="76" style="--class:lead;--paginate:true;--background-image:url('hero-background.jpg');--header:**Preparation Java**;--footer:Taha Bouhsine;--theme:gaia;background-image:url('hero-background.jpg');background-position:center;background-repeat:no-repeat;background-size:cover;">
 <header><strong>Preparation Java</strong></header>
 <h2>References</h2>
 <p>[<a href="https://www.tutorialspoint.com/java/java_quick_guide.htm">https://www.tutorialspoint.com/java/java_quick_guide.htm</a>]<br />
